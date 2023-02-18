@@ -1,5 +1,6 @@
 # Employee-Leave-Portal
-Developed a full-stack leave management application that tracks leave requests and approvals of employees using JavaScript, HTML, CSS, React, Express.js, Node.js, MongoDB.
+
+Developed a full-stack leave management application that tracks leave requests and approvals of employees using JavaScript, HTML, CSS, React, Express.js, Node.js, MongoDB. Implemented an Express.js server with Node.js using the RESTful API features to decrease the time to load the website by a factor of 2 resulting in time-efficient user functionalities. Programmed Google authentication using Google OAuth, Facebook authentication with JavaScript SDK and default authentication using JSON web token.
 
 1. Need 2 terminals 
 2. For Client side, type 
