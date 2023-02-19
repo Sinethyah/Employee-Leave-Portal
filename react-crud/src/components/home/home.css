@@ -1,0 +1,18 @@
+body{
+    background-image: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-width: 100%;
+    min-height: 100vh;
+}
+
+#leave{
+    color:black;
+    opacity: 0.6;
+    margin-top: 25%;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+
+}
